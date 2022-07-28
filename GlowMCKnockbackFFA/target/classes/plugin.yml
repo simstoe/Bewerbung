@@ -1,0 +1,8 @@
+name: GlowMCKnockBack
+version: 1.0
+author: HttpSimon
+main: eu.glowmc.knockbackffa.KnockBackService
+
+commands:
+  setup:
+  stats:
